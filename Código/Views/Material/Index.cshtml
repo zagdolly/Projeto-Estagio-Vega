@@ -1,0 +1,63 @@
+﻿@model List<MaterialsModel>
+@{
+    ViewData["Title"] = "Materials";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Materials List</h1>
+    <p>a Vega Project.</p>
+</div>
+
+<br />
+<div class="text-center">
+    <div class="d-grip gap-2 d-md-flex justify-content-md-start">
+        <a role="button" class="btn btn-success" asp-asp-controller="Material" asp-route-supplierId="@ViewBag.SupplierId" asp-action="Create">Add New Material</a>
+    </div>
+<br />
+
+<div>
+        <table id="myTable" class="table text-left">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Description</th>
+                <th scope="col">Code</th>
+                <th scope="col">FiscalCode</th>
+                <th scope="col">Supplier</th>
+                <th scope="col">Specie</th>
+                <th scope="col">CreatedAt</th>
+                <th scope="col">CreatedBy</th>
+                <th scope="col">UpdatedAt</th>
+                <th scope="col">UpdatedBy</th>
+                <th scope="col">Options</th>
+            </tr>
+        </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+                    foreach (MaterialsModel material in Model)
+                    {
+                        <tr>
+                            <td>@material.Name</td>
+                            <td>@material.Description</td>
+                            <td>@material.Code</td>
+                            <td>@material.FiscalCode</td>
+                            <td>@material.Supplier</td>
+                            <td>@material.Specie</td>
+                            <td>@material.CreatedAt</td>
+                            <td>@material.CreatedBy</td>
+                            <td>@material.UpdatedAt</td>
+                            <td>@material.UpdatedBy</td>
+                            <td>
+                                <div class="btn-group" role="group" aria-label="basic example">
+                                    <a role="button" class="btn btn-primary" asp-route-id="@material.Id" asp-controller="Material" asp-action="Edit">Edit</a>
+                                    <a role="button" class="btn btn-danger" asp-route-id="@material.Id" asp-controller="Material" asp-action="ConfirmDelete">Delete</a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                }
+
+            </tbody>
+    </table>
+</div>

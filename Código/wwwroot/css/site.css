@@ -1,0 +1,113 @@
+html {
+  font-size: 14px;
+
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn:hover, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+
+html {
+    position: relative;
+    min-height: 100%;
+    text-decoration: none;
+}
+
+
+
+body {
+    margin-bottom: 60px;
+    padding-bottom: 50px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40; /* Cor de fundo do rodapé */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.container {
+    margin-top: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+#profilePhoto {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+
+h1.display-4 {
+    font-size: 100px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 30px;
+}
+
+/* Links sociais */
+.social-links {
+    flex-direction: column;
+    align-items: center;
+    float:left;
+    padding-top: 20%;
+}
+
+.social-item {
+    margin-bottom: 20px;
+}
+
+    .social-item a {
+        text-decoration: none;
+        align-items: start;
+    }
+
+    a:hover, a:visited, a:link, a:active {
+        text-decoration: none;
+    }
+
+/* Ajustes para o ícone do LinkedIn */
+.social-icon {
+    width: 35px;
+    height: 35px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+    .btn-dark:hover {
+        background-color: #23272b;
+    }
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .col-md-6 {
+        margin-bottom: 20px;
+    }
+
+    #profilePhoto {
+        width: 120px;
+        height: 120px;
+    }
+}
+
+
+
+

@@ -1,0 +1,54 @@
+﻿@model MaterialsModel
+@{
+    ViewData["Title"] = "Edit Material";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Supplier Editor!</h1>
+    <p>A Vega Project!</p>
+</div>
+
+<br />
+
+<form asp-controller="Material" asp-action="Change" method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3 form-group">
+        <label for="name" class="form-label">Name</label>
+        <input type="text" asp-for="Name" class="form-control" placeholder="Type the Material's Name" required>
+    </div>
+
+    <div class="mb-3 form-group">
+        <label for="code" class="form-label">Codigo</label>
+        <input type="text" asp-for="Code" class="form-control" placeholder="Type the Material's Code" required>
+    </div>
+
+
+    <div class="mb-3 form-group">
+        <label for="description" class="form-label">Description</label>
+        <input type="text" asp-for="Description" class="form-control" placeholder="Type the Material's Description" required>
+    </div>
+
+    <div class="mb-3 form-group">
+        <label for="fiscalCode" class="form-label">Fiscal Code</label>
+        <input type="text" asp-for="FiscalCode" class="form-control" placeholder="Type the Material's Fical Code" required>
+    </div>
+
+    <div class="mb-3 form-group">
+        <label for="specie" class="form-label">Specie</label>
+        <input type="text" asp-for="Specie" class="form-control" placeholder="Type the Material's Specie" required>
+    </div>
+
+    <div class="mb-3 form-group">
+        <label for="specie" class="form-label">Your Name</label>
+        <input type="text" asp-for="UpdatedBy" class="form-control" placeholder="Type Your Name" required>
+    </div>
+
+
+
+    <button type="submit" class="btn btn-success">Update</button>
+    <a role="button" class="btn btn-secondary" asp-asp-controller="Material" asp-action="Index">Back</a>
+</form>
+
+
