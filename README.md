@@ -4,7 +4,7 @@ Sistema de Gestão de Fornecedores e Materiais
 
 ## Descrição
 
-Esse Projeto Permite o Cadastro de fornecedores e seus respectivos materiais. O Projeto Permite cadastro de informações básicas de endereço, identificação e mantem as relações de quais Fornecedores fornecem quais materiais.
+Esse Projeto Permite o Cadastro de fornecedores e seus respectivos materiais. O Projeto Permite cadastro de informações básicas de endereço, identificação e mantém as relações de quais Fornecedores fornecem quais materiais.
 
 ## Tecnologias Utilizadas
 
@@ -15,8 +15,9 @@ Esse Projeto Permite o Cadastro de fornecedores e seus respectivos materiais. O 
 
 ## Funcionalidades
 
-- [Descreva funcionalidade 1, ex.: Cadastro de usuários com autenticação]
-- [Descreva funcionalidade 2, ex.: Listagem de dados com filtros]
+- Cadastro de fornecedores e materiais.
+- Manutenção da relação entre fornecedores e materiais.
+- Listagem e edição de informações cadastradas.
 - [Adicione mais funcionalidades relevantes]
 
 ## Como Executar o Projeto
@@ -28,41 +29,40 @@ Esse Projeto Permite o Cadastro de fornecedores e seus respectivos materiais. O 
 
 2. Instale as dependências:
    
-   Entity.EntityFramework.Core 8.0.2
-   Entity.EntityFramework.Design 8.0.2
-   Entity.EntityFramework.Relational 8.0.2
-   Entity.EntityFramework.Tools 8.0.2
+   Entity.EntityFramework.Core 8.0.2  
+   Entity.EntityFramework.Design 8.0.2  
+   Entity.EntityFramework.Relational 8.0.2  
+   Entity.EntityFramework.Tools 8.0.2  
    POMELO.EntityFrameworkCore.MySql 8.0.2
 
    Além das dependências acima, certifique-se de instalar, localmente, o Banco de Dados MySql.
-   
-   
 
-3. Configure as variáveis de ambiente (se aplicável):
+3. Configure as variáveis de ambiente:
    
-   No Arquivo "appsettings.json", no campo "DefaultConnection", substitua a String pelos dados de seu banco de dados local, instalado anteriormente.
-   Ex:
-   ```bash
+   No arquivo `appsettings.json`, no campo "DefaultConnection", substitua a string pelos dados do seu banco de dados local, instalado anteriormente.
+   Exemplo:
+   ```json
    "DefaultConnection": "Server=localhost;Database=MeuBanco;User=root;Password=teste123;Port=3306;"
    ```
 
-5. Execute a aplicação:
-
-   Após instalação das dependências e configurar as variaveis de ambiente, execute esse comando para criação das tabelas no banco de dados.
+4. Execute a aplicação:
+   
+   Após instalar as dependências e configurar as variáveis de ambiente, execute este comando para criar as tabelas no banco de dados:
    ```bash
    Update-Database
    ```
 
-7. Acesse no Site:
+5. Acesse o site:
 
-  Em sua IDE, após a instalação das dependencias e criação do Banco de dados e respectivas tabelas, inicie a depuração.
+   Em sua IDE, após a instalação das dependências e criação do banco de dados e respectivas tabelas, execute a aplicação dentro da IDE.
 
 ## Estrutura do Projeto
 
+O Projeto foi dividido em 2 partes:
 
-O Projeto Foi dividido em 2 Partes.
-1ª) Src -  Codigo fonte do projeto
-2ª) Readme -  Explicações do Projeto.
+1ª) Src - Código fonte do projeto  
+2ª) Readme - Explicações do Projeto.
+
 ```plaintext
 /
 |-- src/            # Código fonte
@@ -71,14 +71,14 @@ O Projeto Foi dividido em 2 Partes.
 
 ## Melhorias Futuras
 
-- Melhorar a Identidade Visual da Aplicação.
-- Tratar melhor os Inputs do usuário (Verificar se são pertinentes antes de adicioná-los ao Banco de Dados).
-- Realizar autenticação do Usuário antes de permitir manipulação dos dados cadastrados.
-- 
-
+- Melhorar a identidade visual da aplicação.
+- Tratar melhor os inputs do usuário (verificar se são pertinentes antes de adicioná-los ao banco de dados).
+- Realizar autenticação do usuário antes de permitir manipulação dos dados cadastrados.
+- [Adicione melhorias ou funcionalidades planejadas.]
 
 ## Autor(es)
 
 - Nome: Arthur Martins Zagnoli Silva
-- LinkedIn: linkedin.com/in/arthur-zagnoli-81029723a/
-- GitHub: github.com/zagdolly
+- LinkedIn: [linkedin.com/in/arthur-zagnoli-81029723a/](https://linkedin.com/in/arthur-zagnoli-81029723a/)
+- GitHub: [github.com/zagdolly](https://github.com/zagdolly)
+
