@@ -1,0 +1,69 @@
+﻿@model MaterialModel
+@{
+    ViewData["Title"] = "Create Material";
+}
+
+
+
+<div class="text-center">
+    <h1 class="display-4">Material Creation</h1>s
+    <p>A Vega Project!</p>
+</div>
+
+<br />
+
+<form asp-controller="Material" asp-action="Create" method="post">
+
+    <div class="mb-3 form-group">
+        <label for="Name" class="form-label fw-bolder">Name</label>
+        <input type="text" asp-for="Name" class="form-control" placeholder="Type the Material's Name" required>
+    </div>
+           
+    <div class="mb-3 form-group">
+        <label for="Description" class="form-label fw-bolder">Description</label>
+        <input type="text" asp-for="Description" class="form-control" placeholder="Type the Material's Description" required>
+    </div>
+
+    <div class="mb-3 form-group">
+        <label for="Code" class="form-label fw-bolder">Code</label>
+        <input type="text" asp-for="Code" class="form-control" placeholder="Type the Material's Code" required>
+    </div>
+
+    <div class="mb-3 form-group">
+        <label for="FiscalCode" class="form-label fw-bolder">FiscalCode</label>
+        <input type="text" asp-for="FiscalCode" class="form-control" placeholder="Type the Material's Fiscal Code" required>
+    </div>
+
+    <div class="mb-3 form-group">
+        <label for="Specie" class="form-label fw-bolder">Specie</label>
+        <input type="text" asp-for="Specie" class="form-control" placeholder="Type the Material's Specie" required>
+    </div>
+
+    <div class="mb-3 form-control">
+        <label for="Supplier" class="form-label fw-bolder">Supplier</label>
+        <select asp-for="SupplierId" id="supplierSelect" class="form-control" required>
+            <option value="" selected disabled>Choose a Supplier</option>
+            @if (Model.ListaSuppliers != null)
+            {
+                @foreach (var item in Model.ListaSuppliers)
+                {
+                    <option value="@item.Id" data-description="@item.toString()">@item.Name</option>
+                }
+            }
+        </select>
+        <div class="invalid-feedback">Please select a valid supplier.</div>
+    </div>
+
+
+    <div class="mb-3 form-group">
+        <label for="CreatedBy" class="form-label fw-bolder">CreatedBy</label>
+        <input type="text" asp-for="CreatedBy" class="form-control" placeholder="Type the Your Name" required>
+    </div>
+
+    <button type="submit" class="btn btn-success">Add</button>
+    <a role="button" class="btn btn-secondary" asp-controller="Home" asp-action="Index" >Back</a>
+</form>
+
+
+
+

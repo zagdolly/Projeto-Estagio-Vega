@@ -1,0 +1,10 @@
+﻿@model SuppliersModel
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="text-center">
+    <h1 class="display-6">Are you sure you want to remove "@Model.Name" ?</h1>
+    <a role="button" class="btn btn-check" asp-controller="Supplier" asp-action="Index">Back</a>
+    <a role="button" class="btn btn-danger" asp-route-id="@Model.Id" asp-controller="Supplier" asp-action="Delete">Delete</a>
+</div>

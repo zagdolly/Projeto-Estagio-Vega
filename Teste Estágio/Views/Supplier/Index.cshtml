@@ -1,0 +1,60 @@
+﻿@model List<SuppliersModel>
+@{
+    ViewData["Title"] = "Suppliers";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Suppliers List</h1>
+    <p>a Vega Project.</p>
+</div>
+
+<div class="d-grip d-md-flex justify-content-md-end p-2">
+    <a role="button" class="btn btn-success" asp-asp-controller="Supplier" asp-action="Create">Add New Supplier</a>
+</div>
+
+<div class="text-center">
+    
+    <table id="myTable" class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Description</th>
+                <th scope="col">CNPJ</th>
+                <th scope="col">Address</th>
+                <th scope="col">CEP</th>
+                <th scope="col">Registration Day</th>
+                <th scope="col">Options</th>
+            </tr>
+        </thead>
+        <tbody>
+
+			@if (Model != null && Model.Any())
+			{
+				foreach (SuppliersModel supplier in Model)
+				{
+                    <tr class="mb-2">
+                        <th>@supplier.Id</th>
+                        <td>@supplier.Name</td>
+                        <td>@supplier.Description</td>
+                        <td>@supplier.CNPJ</td>
+                        <td>@supplier.Address</td>
+                        <td>@supplier.CEP</td>
+                        <td>@supplier.RegistrationDay</td>
+                        <td>
+                            <div class="btn-group" role="group" aria-label="basic example">
+                                <a  role="button" class="btn btn-primary" asp-route-id="@supplier.Id" asp-controller="Supplier" asp-action="Edit">Edit</a>
+                                <a role="button" class="btn btn-danger" asp-route-id="@supplier.Id" asp-controller="Supplier" asp-action="ConfirmDelete">Delete</a>                                    
+                            </div>
+                        </td>
+                    </tr>
+					
+				}
+            }
+                
+        </tbody>
+    </table>
+
+    
+    
+</div>
