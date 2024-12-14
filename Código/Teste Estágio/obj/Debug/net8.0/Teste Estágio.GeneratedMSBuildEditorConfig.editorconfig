@@ -9,69 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Teste_Estágio
 build_property.RootNamespace = Teste_Estágio
-build_property.ProjectDir = C:\Users\Arthur Zagnoli\Documents\GitHub\Projeto-Estagio-Vega\Teste Estágio\
+build_property.ProjectDir = C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Arthur Zagnoli\Documents\GitHub\Projeto-Estagio-Vega\Teste Estágio
+build_property.MSBuildProjectDirectory = C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/Home/Index.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/Material/ConfirmDelete.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/Material/ConfirmDelete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcQ29uZmlybURlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/Material/Create.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/Material/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/Material/Edit.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/Material/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/Material/Index.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/Material/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/Shared/Error.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/Supplier/ConfirmDelete.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/Supplier/ConfirmDelete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ29uZmlybURlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/Supplier/Create.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/Supplier/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/Supplier/Edit.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/Supplier/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/Supplier/Index.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/Supplier/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/_ViewImports.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/_ViewStart.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arthur Zagnoli/Documents/GitHub/Projeto-Estagio-Vega/Teste Estágio/Views/Shared/_Layout.cshtml]
+[C:/Users/Arthur Zagnoli/Documents/Programação/C\#/Projeto-Estagio-Vega/Código/Teste Estágio/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jggwzmhbmb

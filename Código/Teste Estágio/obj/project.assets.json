@@ -2307,11 +2307,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arthur Zagnoli\\Documents\\GitHub\\Projeto-Estagio-Vega\\Teste Estágio\\Teste Estágio.csproj",
+      "projectUniqueName": "C:\\Users\\Arthur Zagnoli\\Documents\\Programação\\C#\\Projeto-Estagio-Vega\\Código\\Teste Estágio\\Teste Estágio.csproj",
       "projectName": "Teste Estágio",
-      "projectPath": "C:\\Users\\Arthur Zagnoli\\Documents\\GitHub\\Projeto-Estagio-Vega\\Teste Estágio\\Teste Estágio.csproj",
+      "projectPath": "C:\\Users\\Arthur Zagnoli\\Documents\\Programação\\C#\\Projeto-Estagio-Vega\\Código\\Teste Estágio\\Teste Estágio.csproj",
       "packagesPath": "C:\\Users\\Arthur Zagnoli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arthur Zagnoli\\Documents\\GitHub\\Projeto-Estagio-Vega\\Teste Estágio\\obj\\",
+      "outputPath": "C:\\Users\\Arthur Zagnoli\\Documents\\Programação\\C#\\Projeto-Estagio-Vega\\Código\\Teste Estágio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
