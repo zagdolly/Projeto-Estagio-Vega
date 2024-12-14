@@ -215,3 +215,112 @@ C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Teste Es
 C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Teste Estágio\obj\Debug\net8.0\Teste Estágio.pdb
 C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Teste Estágio\obj\Debug\net8.0\Teste Estágio.genruntimeconfig.cache
 C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Teste Estágio\obj\Debug\net8.0\ref\Teste Estágio.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\appsettings.json
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Teste Estágio.staticwebassets.runtime.json
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Teste Estágio.staticwebassets.endpoints.json
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Teste Estágio.exe
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Teste Estágio.deps.json
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Teste Estágio.runtimeconfig.json
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Teste Estágio.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Teste Estágio.pdb
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\Teste Estágio.csproj.AssemblyReference.cache
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\Teste Estágio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\Teste Estágio.AssemblyInfoInputs.cache
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\Teste Estágio.AssemblyInfo.cs
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\Teste Estágio.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\Teste Estágio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\Teste Estágio.RazorAssemblyInfo.cache
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\Teste Estágio.RazorAssemblyInfo.cs
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\Teste Estágio.sourcelink.json
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\scopedcss\bundle\Teste Estágio.styles.css
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\scopedcss\projectbundle\Teste Estágio.bundle.scp.css
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\staticwebassets\msbuild.Teste Estágio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\staticwebassets\msbuild.Teste Estágio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\staticwebassets\msbuild.build.Teste Estágio.props
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Teste Estágio.props
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Teste Estágio.props
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\Teste Es.5F49CF45.Up2Date
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\Teste Estágio.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\refint\Teste Estágio.dll
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\Teste Estágio.pdb
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\Teste Estágio.genruntimeconfig.cache
+C:\Users\Arthur Zagnoli\Documents\Programação\C#\Projeto-Estagio-Vega\Código\Teste Estágio\obj\Debug\net8.0\ref\Teste Estágio.dll
