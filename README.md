@@ -1,6 +1,6 @@
 # Projeto Estágio Vega
 
-Sistema de Gestão de Foprnecedores e Materiais
+Sistema de Gestão de Fornecedores e Materiais
 
 ## Descrição
 
