@@ -54,7 +54,7 @@ Esse Projeto Permite o Cadastro de fornecedores e seus respectivos materiais. O 
 
 5. Acesse o site:
 
-   Em sua IDE, após a instalação das dependências e criação do banco de dados e respectivas tabelas, execute a aplicação dentro da IDE.
+   Em sua IDE, após a instalação das dependências e criação do banco de dados e respectivas tabelas, execute a aplicação dentro da IDE (Depuração).
 
 ## Estrutura do Projeto
 
