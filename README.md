@@ -35,7 +35,7 @@ Esse Projeto Permite o Cadastro de fornecedores e seus respectivos materiais. O 
    Entity.EntityFramework.Tools 8.0.2  
    POMELO.EntityFrameworkCore.MySql 8.0.2
 
-   Além das dependências acima, certifique-se de instalar, localmente, o Banco de Dados MySql.
+   Além das dependências acima, certifique-se de instalar, localmente, o Banco de Dados MySql, e o framework .NET.
 
 3. Configure as variáveis de ambiente:
    
@@ -47,7 +47,7 @@ Esse Projeto Permite o Cadastro de fornecedores e seus respectivos materiais. O 
 
 4. Execute a aplicação:
    
-   Após instalar as dependências e configurar as variáveis de ambiente, execute este comando para criar as tabelas no banco de dados:
+   Após instalar as dependências e configurar as variáveis de ambiente, abra o projeto no Visual Studio e execute este comando para criar as tabelas no banco de dados:
    ```bash
    Update-Database
    ```
